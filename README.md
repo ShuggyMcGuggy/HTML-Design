@@ -1,2 +1,4 @@
-# HTML-Design
-Try out new HTML / CSS / Javascript here
+# HTML-Design Repository
+This is is used to try out new HTML / CSS / Javascript here
+
+
